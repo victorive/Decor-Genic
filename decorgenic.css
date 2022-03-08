@@ -1,0 +1,1067 @@
+.container-fluid{
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    position: fixed;
+    z-index: 100;
+}
+
+.nav1{
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    padding-left: 50px;
+}
+
+.decor{
+    font-size: 28px;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.decor1{
+    color: black;
+}
+
+.navtext{
+    margin-right: 50px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.text1{
+    color: black;
+}
+
+.iconholder{
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.icon1{
+    margin-right: 39px;
+    color: black;
+}
+
+/* .imgcontainer{
+    width: 100%;
+    height: 700px;
+} */
+
+.img1{
+    width: 100%;
+    height: 700px;
+}
+
+.projects{
+    background-color: white;
+}
+
+.projecttext{
+    font-size: 65px;
+    font-family: Maiandra GD;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.textbox{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(20, 20, 20);
+    display: inline-block;
+}
+
+.project1{
+    font-size: 23px;
+    font-family: Maiandra GD;
+    text-align: center;
+    color: white;
+}
+
+.project2{
+    margin-top: 50px;
+}
+
+.offer{
+    background-color: white;
+}
+
+.offertext{
+    font-size: 50px;
+    font-family: Maiandra GD;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.textbox1{
+    width: 100%;
+    height: 190px;
+    background-color: white;
+}
+
+.star1{
+    margin-left: 140px;
+    color: darkgoldenrod;
+}
+
+.star2{
+    color: darkgoldenrod;
+}
+
+.text2{
+    text-align: center;
+    font-size: 21px;
+    font-family: Maiandra GD;
+    font-weight: bold;
+    color: black;
+}
+
+.text3{
+    font-size: 13px;
+    font-family: Fira Code;
+    color: black;
+}
+
+.text4{
+    font-size: 23px;
+    font-family: Fira Code;
+    font-weight: bold;
+}
+
+.offer1{
+    margin-top: 50px;
+}
+
+.promocontainer{
+    margin-top: 50px;
+}
+
+.promo2{
+    width: 60%;
+    height: 504px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: -440px;
+    top: -10px;
+    position: absolute;
+}
+
+.imgholder{
+    border: 2px solid gray;
+}
+
+.promo3{
+    width: 83%;
+    height: 500px;
+    background-color: rgb(39, 38, 38);
+    opacity: 0.8;
+    display: inline-block;
+    margin-left: -510px;
+    top: 38px;
+    position: absolute;
+    border: 2px solid gray;
+}
+
+.promotext{
+    font-family: Bradley Hand ITC;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    opacity: 1;
+}
+
+.promotext2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.promotext3{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Maiandra GD;
+    color: wheat;
+    margin-top: 20px;
+}
+
+.promotext4{
+    font-family: Maiandra GD;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+
+.button1{
+    width: 142px;
+    height: 46px;
+    background-color: wheat;
+    margin-left: 160px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.buttontext{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    font-family: Fira Code;
+    font-size: 15px;
+    letter-spacing: 4px;
+}
+
+.promotext5{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: -6px;
+    color: slategray;
+    position: relative;
+    z-index: 1;
+    font-family: Maiandra GD;
+}
+
+.promotext6{
+    margin-left: 130px;
+    font-family: 'Lucida', serif;
+    font-size: 140px;
+    margin-top: -185px;
+    color: rgb(161, 161, 161);
+    transform: rotate(-12deg);
+    font-weight: bold;
+}
+
+.promotext7{
+    margin-left: 40px;
+    font-family: Maiandra GD;
+    font-size: 90px;
+    font-weight: bold;
+    margin-top: -190px;
+    letter-spacing: -6px;
+    color: slategrey;
+    position: relative;
+    z-index: 1;
+}
+
+.button2{
+    width: 142px;
+    height: 46px;
+    background-color: rgb(209, 183, 134);
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.promotext8{
+    font-family: Maiandra GD;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+    color: azure;
+    font-weight: bold;
+}
+
+.hashtag1{
+    background-image: url(images/noithatvieta.com07.jpg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.hashtagtext{
+    text-align: center;
+    margin-top: 60px;
+    font-family:  Maiandra GD;
+    font-size: 35cdpx;
+    font-weight: bold;
+}
+
+.hashtagtext1{
+    text-align: center;
+    color: black;
+    font-family:  Maiandra GD;
+    font-size: 17px;
+}
+
+.button3{
+    width: 142px;
+    height: 46px;
+    background-color: rgb(209, 183, 134);
+    margin-left: 618px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.testimonial{
+    background-color: white;
+}
+
+.testimonialtext{
+    font-size: 50px;
+    font-family: Maiandra GD;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.testimonial1{
+    background-color: white;
+    width: 80%;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.testimonialtext1{
+    text-align: center;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-style: italic;
+}
+
+.testimonialpic{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    margin-left: 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.testimonialpic1{
+    width: 13%;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 470px;
+    background-image: url(images/dp.jpg);
+    background-size: cover;
+    background-position-x: center;
+    margin-top: 10px;
+}
+
+.testimonialtext2{
+    text-align: center;
+    font-size: 18px;
+    font-family: Fira Code;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.testimonialtext3{
+    text-align: center;
+    font-size: 15px;
+    font-family: Fira Code;
+    margin-top: -10px;
+}
+
+.lettersub{
+    background-image: url(images/noithatvieta.com1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.lettersub1{
+    font-size: 60px;
+    font-family: Maiandra GD;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 120px;
+    color: darkslategray;
+}
+
+.lettersub2{
+    width: 70%;
+    height: 46px;
+    margin-left: 90px;
+    padding-left: 25px;
+    border: none;
+    font-family: Fira Code;
+    font-style: italic;
+    margin-top: 60px;
+}
+
+.lettersub3{
+    position: absolute;
+    width: 142px;
+    height: 46px;
+    font-size: 15px;
+    font-family: Fira Code;
+    background-color: darkslategray;
+    color: whitesmoke;
+    border: none;
+    letter-spacing: 2px;
+    margin-top: 60px;
+}
+.lettersub3:hover{
+    background-color: chocolate;
+    opacity: 0.7;
+}
+
+.lettersub4{
+    margin-right: 80px;
+    margin-left: 90px;
+    margin-top: 10px;
+    color: darkslategray;
+    font-family: Fira Code;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.lettersub13{
+    width: 70%;
+    height: 216px;
+    margin-left: 200px;
+    margin-top: 70px;
+    background-color: white;
+}
+
+.lettersub5{
+    text-align: center;
+    font-size: 60px;
+    font-family: Fira Code;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.lettersub6{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.lettersub7{
+    width: 100%;
+    display: inline-block;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.lettersub8{
+    font-size: 30px;
+    margin-left: 380px;
+    color: darkslategray;
+}
+
+.lettersub9{
+    font-size: 30px;
+    margin-left: 20px;
+    color: darkslategray;
+}
+
+.lettersub10{
+    font-size: 30px;
+    margin-left: 20px;
+    color: darkslategray;
+}
+
+.lettersub11{
+    font-size: 30px;
+    margin-left: 20px;
+    color: darkslategray;
+}
+
+.lettersub12{
+    font-size: 30px;
+    margin-left: 20px;
+    color: darkslategray;
+}
+
+.lettersub14{
+    margin-top: 30px;
+    background-color: white;
+}
+
+.lettersub15{
+    text-align: center;
+    margin-top: 8px;
+    color: black;
+    font-size: 12px;
+    font-family: Fira Code;
+}
+
+.lettersub16{
+    width: 100%;
+    height: 40px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+}
+
+.lettersub17{
+    text-decoration: none;
+    color: rgb(67, 67, 253);
+}
+
+.testingcarou{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 35px;
+}
+
+.item{
+    height: 200px;
+    margin-right: 10px;
+}
+
+.owl-dots{
+    display: none;
+}
+
+@media screen and (max-device-width:375px){
+    .container-fluid{
+        width: 100%;
+        height: auto;
+        background-color: white;
+        position: fixed;
+        z-index: 100;
+    }
+    
+    .nav1{
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding-left: 10px;
+    }
+    
+    .decor{
+        font-size: 28px;
+        font-weight: bold;
+        margin-right: 50px;
+    }
+    
+    .decor1{
+        color: black;
+    }
+    
+    .navtext{
+        margin-right: 50px;
+        text-transform: uppercase;
+        margin-top: 5px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .text1{
+        color: black;
+    }
+    
+    .iconholder{
+        display: inline-block;
+        margin-left: 150px;
+    }
+    
+    .icon1{
+        margin-right: 39px;
+        color: black;
+    }
+    
+    /* .imgcontainer{
+        width: 100%;
+        height: 700px;
+    } */
+    
+    .img1{
+        width: 100%;
+        height: 700px;
+    }
+    
+    .projects{
+        background-color: white;
+    }
+    
+    .projecttext{
+        font-size: 65px;
+        font-family: Maiandra GD;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .textbox{
+        width: 100%;
+        height: 50px;
+        background-color: rgb(20, 20, 20);
+        display: inline-block;
+    }
+    
+    .project1{
+        font-size: 23px;
+        font-family: Maiandra GD;
+        text-align: center;
+        color: white;
+    }
+    
+    .project2{
+        margin-top: 50px;
+    }
+    
+    .offer{
+        background-color: white;
+        width: 100%;
+    }
+    
+    .offertext{
+        font-size: 40px;
+        font-family: Maiandra GD;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    .textbox1{
+        width: 100%;
+        height: 190px;
+        background-color: white;
+    }
+    
+    .star1{
+        margin-left: 140px;
+        color: darkgoldenrod;
+    }
+    
+    .star2{
+        color: darkgoldenrod;
+    }
+    
+    .text2{
+        text-align: center;
+        font-size: 21px;
+        font-family: Maiandra GD;
+        font-weight: bold;
+        color: black;
+    }
+    
+    .text3{
+        font-size: 13px;
+        font-family: Fira Code;
+        color: black;
+    }
+    
+    .text4{
+        font-size: 17px;
+        font-family: Fira Code;
+        font-weight: bold;
+    }
+    
+    .offer1{
+        margin-top: 50px;
+    }
+    
+    .promocontainer{
+        margin-top: 50px;
+    }
+    
+    .promo2{
+        width: 60%;
+        height: 504px;
+        display: inline-block;
+        margin-top: 50px;
+        margin-left: -290px;
+        top: -10px;
+        position: absolute;
+    }
+    
+    .imgholder{
+        border: 2px solid gray;
+        margin-top: 20px;
+    }
+    
+    .promo3{
+        width: 83%;
+        height: 500px;
+        background-color: rgb(39, 38, 38);
+        opacity: 0.8;
+        display: inline-block;
+        margin-left: -315px;
+        top: 38px;
+        position: absolute;
+        border: 2px solid gray;
+    }
+    
+    .promotext{
+        font-family: Bradley Hand ITC;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 30px;
+        color: white;
+        opacity: 1;
+    }
+    
+    .promotext2{
+        font-size: 50px;
+        font-weight: bold;
+    }
+    
+    .promotext3{
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        font-family: Maiandra GD;
+        color: wheat;
+        margin-top: 20px;
+    }
+    
+    .promotext4{
+        font-family: Maiandra GD;
+        font-size: 15px;
+        text-align: center;
+        margin-top: 20px;
+        color: whitesmoke;
+    }
+    
+    .button1{
+        width: 120px;
+        height: 46px;
+        background-color: wheat;
+        margin-left: 80px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    
+    .buttontext{
+        text-align: center;
+        margin-top: 12px;
+        color: black;
+        font-family: Fira Code;
+        font-size: 12px;
+        letter-spacing: 4px;
+    }
+    
+    .promotext5{
+        margin-top: 10px;
+        margin-left: 20px;
+        font-size: 50px;
+        font-weight: bold;
+        letter-spacing: -1px;
+        color: slategray;
+        position: relative;
+        z-index: 1;
+        font-family: Maiandra GD;
+    }
+    
+    .promotext6{
+        margin-left: 120px;
+        font-family: 'Lucida', serif;
+        font-size: 88px;
+        margin-top: -120px;
+        color: rgb(161, 161, 161);
+        transform: rotate(-12deg);
+        font-weight: bold;
+    }
+    
+    .promotext7{
+        margin-left: 40px;
+        font-family: Maiandra GD;
+        font-size: 50px;
+        font-weight: bold;
+        margin-top: -126px;
+        letter-spacing: -1px;
+        color: slategrey;
+        position: relative;
+        z-index: 1;
+    }
+    
+    .button2{
+        width: 120px;
+        height: 46px;
+        background-color: rgb(209, 183, 134);
+        margin-left: 45px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    
+    .promotext8{
+        font-family: Maiandra GD;
+        font-size: 13px;
+        text-align: center;
+        margin-top: 20px;
+        color: azure;
+    }
+    
+    .hashtag1{
+        background-image: url(images/noithatvieta.com07.jpg);
+        height: 500px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        vertical-align: top;
+        display: inline-block;
+        margin-top: 50px;
+    }
+    
+    .hashtagtext{
+        text-align: center;
+        margin-top: 60px;
+        font-family:  Maiandra GD;
+        font-size: 16px;
+        font-weight: bold;
+        margin-right: -98px;
+    }
+    
+    .hashtagtext1{
+        text-align: center;
+        color: black;
+        font-family:  Maiandra GD;
+        font-size: 17px;
+        margin-right: -45px;
+    }
+    
+    .button3{
+        width: 120px;
+        height: 46px;
+        background-color: rgb(209, 183, 134);
+        margin-left: 110px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    
+    .testimonial{
+        background-color: white;
+    }
+    
+    .testimonialtext{
+        font-size: 50px;
+        font-family: Maiandra GD;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    .testimonial1{
+        background-color: white;
+        width: 90%;
+        height: 170px;
+        margin-left: 18px;
+        margin-top: 50px;
+    }
+    
+    .testimonialtext1{
+        text-align: center;
+        font-size: 14px;
+        font-family: Fira Code;
+        font-style: italic;
+    }
+    
+    .testimonialpic{
+        width: 80%;
+        height: 200px;
+        background-color: white;
+        margin-left: 35px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    
+    .testimonialpic1{
+        width: 35%;
+        height: 100px;
+        border-radius: 50%;
+        margin-left: 92px;
+        background-image: url(images/dp.jpg);
+        background-size: cover;
+        background-position-x: center;
+        margin-top: 10px;
+    }
+    
+    .testimonialtext2{
+        text-align: center;
+        font-size: 15px;
+        font-family: Fira Code;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    
+    .testimonialtext3{
+        text-align: center;
+        font-size: 12px;
+        font-family: Fira Code;
+        margin-top: -10px;
+    }
+    
+    .lettersub{
+        background-image: url(images/noithatvieta.com1.jpg);
+        height: 400px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: center;
+        vertical-align: top;
+        display: inline-block;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    
+    .lettersub1{
+        font-size: 21px;
+        font-family: Maiandra GD;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 120px;
+        color: darkslategray;
+    }
+    
+    .lettersub2{
+        width: 70%;
+        height: 46px;
+        margin-left: -3px;
+        border: none;
+        font-family: Fira Code;
+        font-style: italic;
+        margin-top: 40px;
+    }
+    
+    .lettersub3{
+        position: absolute;
+        width: 110px;
+        height: 46px;
+        font-size: 15px;
+        font-family: Fira Code;
+        background-color: darkslategray;
+        color: whitesmoke;
+        border: none;
+        letter-spacing: 2px;
+        margin-top: 40px;
+    }
+    .lettersub3:hover{
+        background-color: chocolate;
+        opacity: 0.7;
+    }
+    
+    .lettersub4{
+        margin-right: 3px;
+        margin-left: -3px;
+        margin-top: 20px;
+        color: darkslategray;
+        font-family: Fira Code;
+        font-style: italic;
+        font-size: 10px;
+    }
+    
+    .lettersub13{
+        width: 86%;
+        height: 335px;
+        margin-left: 25px;
+        margin-top: 70px;
+        background-color: white;
+    }
+    
+    .lettersub5{
+        text-align: center;
+        font-size: 35px;
+        font-family: Fira Code;
+        font-weight: bold;
+    }
+    
+    .lettersub6{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .lettersub7{
+        width: 100%;
+        display: inline-block;
+        background-color: white;
+        margin-top: 15px;
+    }
+    
+    .lettersub8{
+        font-size: 25px;
+        margin-left: 60px;
+        color: darkslategray;
+    }
+    
+    .lettersub9{
+        font-size: 25px;
+        margin-left: 20px;
+        color: darkslategray;
+    }
+    
+    .lettersub10{
+        font-size: 25px;
+        margin-left: 20px;
+        color: darkslategray;
+    }
+    
+    .lettersub11{
+        font-size: 25px;
+        margin-left: 20px;
+        color: darkslategray;
+    }
+    
+    .lettersub12{
+        font-size: 25px;
+        margin-left: 20px;
+        color: darkslategray;
+    }
+    
+    .lettersub14{
+        margin-top: 30px;
+        background-color: white;
+    }
+    
+    .lettersub15{
+        text-align: center;
+        margin-top: 8px;
+        color: black;
+        font-size: 9px;
+        font-family: Fira Code;
+    }
+    
+    .lettersub16{
+        width: 100%;
+        height: 40px;
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 40px;
+    }
+    
+    .lettersub17{
+        text-decoration: none;
+        color: rgb(67, 67, 253);
+        font-size: 12px;
+    }
+    
+    .testingcarou{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        margin-top: 35px;
+    }
+    
+    .item{
+        height: 200px;
+        margin-right: 10px;
+    }
+    
+    .owl-dots{
+        display: none;
+    }
+
+    .navresp{
+        background-color: darkslategray;
+    }
+
+    .thumbresp{
+        margin-top: 20px;
+    }
+
+    .thumbresp2{
+        margin-top: 20px;
+    }
+}
